@@ -11,6 +11,7 @@ Last Expense Service – Manages policy claims and beneficiary payouts.
 Robot Service – Automates background tasks (e.g., notifications, batch processing).
 
 Architecture Diagram
+
 graph TD
     A[Client (Web/Mobile)] --> B[API Gateway]
     B --> C[User Service]
